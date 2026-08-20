@@ -1,0 +1,3 @@
+# Homework 02 - Tooling Setup
+
+In this homework, I practiced setting up a reproducible Python project. I created a separate conda environment, organized the project into folders for data, notebooks, source code, reports, and models, and used environment variables to store configuration information. I also tested the setup in Jupyter and created a requirements file for the Python packages used in the project.
